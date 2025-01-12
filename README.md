@@ -21,5 +21,5 @@ O principal é o banco de dados `dataBank.db`, que contém a tabela `pessoas` co
 
 ## Tecnologias Utilizadas
 
-*   ### _Python_: A linguagem de programação que dá vida ao projeto, com sua sintaxe clara e poderosa.
-*   ### _SQLite_: O banco de dados leve e eficiente que armazena as informações de forma local.
+*   ### _Python_: A linguagem de programação usada diante por conta de sua sintaxe clara.
+*   ### _SQLite_: Banco de dados relacional utilizado por ser simples e não necessitar de instalação de um servidor.
