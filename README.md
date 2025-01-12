@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este projeto oferece uma solução robusta e eficiente para o gerenciamento de dados pessoais utilizando o SQLite. Composto por três scripts Python, ele permite a criação, inserção, deleção e atualização de registros em um banco de dados local, proporcionando uma base sólida para suas informações.
+Estes códigos, composto por três scripts Python, permite a criação, inserção, deleção e atualização de registros em um banco de dados local. É uma ferramenta simples que ainda será melhorada.
 
 ## Como Funciona?
 
